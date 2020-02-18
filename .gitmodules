@@ -7,3 +7,6 @@
 [submodule "docs"]
 	path = docs
 	url = ./docs
+[submodule "external"]
+	path = external
+	url = ./external
