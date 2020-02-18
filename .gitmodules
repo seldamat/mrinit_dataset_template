@@ -4,3 +4,6 @@
 [submodule "data"]
 	path = data
 	url = ./data
+[submodule "docs"]
+	path = docs
+	url = ./docs
