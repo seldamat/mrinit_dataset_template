@@ -1,6 +1,3 @@
-[submodule "code"]
-	path = code
-	url = ./code
 [submodule "data"]
 	path = data
 	url = ./data
