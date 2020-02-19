@@ -1,12 +1,12 @@
 [submodule "data"]
 	path = data
-	url = ./data
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data.git
 [submodule "docs"]
 	path = docs
-	url = ./docs
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-docs.git
 [submodule "external"]
 	path = external
-	url = ./external
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-external.git
 [submodule "code"]
 	path = code
-	url = ./code
+	url = https://github.com/seldamat/mrinit_dataset_template-code.git
