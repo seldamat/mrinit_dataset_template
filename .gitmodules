@@ -1,9 +1,27 @@
 [submodule "data"]
 	path = data
 	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data.git
+[submodule "bids"]
+	path = data/bids
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-bids.git
+[submodule "derivatives"]
+	path = data/derivatives
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-derivatives.git
+[submodule "source"]
+	path = data/source
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-source.git	
+[submodule "mri"]
+	path = data/source/mri
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-source-mri.git
+[submodule "behav"]
+	path = data/source/behav
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-data-source-behav.git
 [submodule "docs"]
 	path = docs
 	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-docs.git
+[submodule "biblio"]
+	path = docs/biblio
+	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-docs-biblio.git	
 [submodule "external"]
 	path = external
 	url = https://seldamat@github.com/seldamat/mrinit_dataset_template-external.git
